@@ -1,2 +1,2 @@
-FROM ubuntu
+FROM node:20-bullseye
 
